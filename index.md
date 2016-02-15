@@ -55,4 +55,6 @@ Tutorial tareas iniciales
 
   * #### Pandoc
 
-  Pandoc es un conversor universal de documentos disponible en código abierto.
+  Pandoc es un conversor universal de documentos disponible en código abierto. Una vez lo descarguemos desde la página de [**Pandoc**](http://pandoc.org/), solo debemos usar el comando:
+  
+  `pandoc nombre.md -o nombre.html`
